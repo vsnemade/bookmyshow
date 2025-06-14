@@ -13,3 +13,5 @@ Sequence Diagram
 Deployment Diagram
 ![image](https://github.com/user-attachments/assets/72e62a9e-23f3-4996-817e-26ad1d008e96)
 
+Entity Diagram
+![image](https://github.com/user-attachments/assets/31e541f3-a708-4942-a5e1-8c15535fe2ac)
